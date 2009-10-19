@@ -1,3 +1,15 @@
+--[[
+abc: LOOP unit tests
+====================
+
+Copyright (C) Michel Alexandre Salim.  All rights reserved.
+
+This file is under the MIT license; see the included LICENSE.txt file.
+
+The unit tests here verify the functioning of abc when used in conjunction
+with the LOOP library\'s class mechanisms.
+--]]
+        
 require "abc"
 require "lunit"
 

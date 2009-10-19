@@ -1,0 +1,17 @@
+INSTALL
+=======
+
+Requirements
+------------
+
+- lua
+- loop <http://loop.luaforge.net/> [optional]
+- lunit <http://www.mroth.net/lunit/> [optional]
+- GNU make [optional]
+- pkgconfig [optional]
+
+To bundle abc with your Lua project, simply put abc.lua in the same
+directory as your project's source code.
+
+The included Makefile can be used to verify the functionalities of abc
+(the 'check') target, and to install abc system-wide.

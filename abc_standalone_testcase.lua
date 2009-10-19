@@ -1,3 +1,15 @@
+--[[
+Standalone abc unit tests
+=========================
+
+Copyright (C) Michel Alexandre Salim.  All rights reserved.
+
+This file is under the MIT license; see the included LICENSE.txt file.
+
+The unit tests here work on standard tables; there is no additional
+dependency beyond lunit
+--]]
+
 require "abc"
 require "lunit"
 
